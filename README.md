@@ -20,6 +20,20 @@ Tarea7_AD/
     └── ModoCambioListener.java
 ```
 
+## Clonar el Proyecto
+
+Puedes clonar este proyecto desde GitHub utilizando el siguiente comando:
+
+```bash
+git clone https://github.com/alvarowau/Tarea7_AD.git
+```
+Esto descargará el proyecto completo en tu máquina local. Después, podrás compilar y ejecutar los diferentes subproyectos siguiendo las instrucciones proporcionadas en este README.
+
+## Requisitos
+
+- JDK 11 o superior.
+- MySQL o base de datos compatible.
+
 ## Descripción
 
 - **Matriculas.jar**: Este archivo JAR contiene la lógica del sistema de matrículas. Gestiona la creación, consulta y modificación de matrículas de alumnos.
@@ -35,11 +49,6 @@ El código fuente está dividido en las siguientes clases:
 - **ModoCambioEvent.java**: Define el evento que se genera cuando el modo del sistema cambia.
 - **ModoCambioListener.java**: Interfaz que permite escuchar los cambios de modo en el sistema.
 - **PruebaMatriculas.java**: Realiza pruebas sobre el sistema de matrículas.
-
-## Requisitos
-
-- JDK 11 o superior.
-- MySQL o base de datos compatible.
 
 ## Instrucciones para Ejecutar
 
